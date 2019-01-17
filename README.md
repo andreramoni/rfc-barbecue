@@ -1,5 +1,5 @@
 # rfc-barbecue
-Feat01
+Feat02
 Proposal of a Barbecue compliance rules
 
 In pt_BR for now:
